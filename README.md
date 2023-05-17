@@ -4,15 +4,22 @@
 
 I am a 3rd year student at a technical university and additionally study Java.
 
-I'm into programming contests
+Know about my experiences: [Resume](https://drive.google.com/file/d/1WVOFdL-RyPvTRoShNRg7glOQVSYMtx59/view?usp=sharing)
+
+I'm into programming contests.
 
 I specialize in Java and its core technologies: 
-- `Spring`
-- `Hibernate`
+- `Spring (JPA, Data, Web, WebFlux)`
+- `Grails`
+- `ORM (Hibernate, GORM)`
+- `Docker`
+- `RabbitMQ`
+- `Monitoring (Actuator, Prometheus, Grafana)`
 
 Languages studied:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
@@ -22,6 +29,7 @@ Databases used:
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 About my activity:
 
