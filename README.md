@@ -6,6 +6,8 @@ I am a 3rd year student at a technical university and additionally study Java.
 
 Know about my experiences: [Resume](https://drive.google.com/file/d/1WVOFdL-RyPvTRoShNRg7glOQVSYMtx59/view?usp=sharing)
 
+Tinkoff backend course 2023: [Diploma](https://drive.google.com/file/d/1INJldyDmN0tRMPIAwxhwQGiaUARXQlvw/view?usp=drive_link)
+
 I'm into programming contests.
 
 I specialize in Java and its core technologies: 
